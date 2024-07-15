@@ -1,3 +1,8 @@
+// npm install react-bootstrap bootstrap react-dnd react-dnd-html5-backend
+// npm install express mongoose cors body-parser
+// npm install axios
+
+
 import React, { useEffect, useState } from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
 import Sidebar from './Sidebar';
